@@ -1,3 +1,6 @@
 [submodule "mri"]
 	path = mri
 	url = ./mri
+[submodule "behav"]
+	path = behav
+	url = ./behav
