@@ -1,6 +1,6 @@
 [submodule "mri"]
 	path = mri
-	url = ./mri
+	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-data-source-mri.git
 [submodule "behav"]
 	path = behav
-	url = ./behav
+	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-data-source-behav.git
